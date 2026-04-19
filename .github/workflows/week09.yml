@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
   push:
     paths:
-      - 'week09/**'
+      - 'week09/rust_basics**'
       - '.github/workflows/week09.yml'
   pull_request:
     paths:
